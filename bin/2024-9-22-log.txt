@@ -1,0 +1,2 @@
+7:3:36 =>firt log message
+7:3:36 =>/home/bsk/project/mprpc/example/callee/userservice.cc:main:75

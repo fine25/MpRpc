@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/consumer.dir/calluserservice.cc.o CMakeFiles/consumer.dir/__/user.pb.cc.o -o /home/bsk/project/mprpc/bin/consumer   -L/home/bsk/project/mprpc/lib  -Wl,-rpath,/home/bsk/project/mprpc/lib:/usr/local/lib /home/bsk/project/mprpc/lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread /usr/local/lib/libzookeeper_mt.so.2 
